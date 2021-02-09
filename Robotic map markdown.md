@@ -1,4 +1,5 @@
 # Robotics
+Topics covered in the course of Robotics @University of Pisa
 
 Programme of A.Y. 2019/20
 
